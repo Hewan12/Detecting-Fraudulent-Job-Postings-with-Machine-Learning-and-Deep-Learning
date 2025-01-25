@@ -6,7 +6,7 @@ This project focuses on detecting fraudulent job postings using various machine 
 
 ## 🔍 Dataset Overview
 
-- **Source**: Kaggle (compiled by Shivam Bansal)
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 - **Size**: 18,000 job descriptions
 
 ### Features:
